@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ClientTest</string>
+    <string name="action_settings">Settings</string>
+	<string name="textview_ipaddress">IPアドレス</string>
+	<string name="edittext_hint_ipaddress">192.168.000.002</string>
+	<string name="edittext_text_ipaddress">192.168.2.110</string>
+	<string name="textview_port">ポート</string>
+	<string name="edittext_hint_port">3000</string>
+	<string name="edittext_text_port">3000</string>
+	<string name="button_tcpopen">オープン</string>
+	<string name="button_tcpclose">クローズ</string>
+	<string name="textview_SendData">送信データ</string>
+	<string name="button_SendData1">送信</string>
+	<string name="button_Img">画像表示</string>
+	<string name="imageView_Main">画像</string>
+	<string name="textview_RcvTime">000</string>
+	<string name="textview_DecTime">000</string>
+	<string name="textview_AllTime">000</string>
+	<string name="textview_Send_Image">カメラ取込</string>
+	<string name="button_Send_On_Image">ON</string>
+	<string name="button_Send_Off_Image">OFF</string>
+	<string name="button_Send_On_Detect">ON</string>
+	<string name="textView_Detect">顔目検出</string>
+	
+</resources>
